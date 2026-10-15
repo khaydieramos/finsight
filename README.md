@@ -27,7 +27,7 @@
 
 ## 🖥️ Dashboard preview
 
-<[FinSight dashboard](assets/dashboard.png)>
+![FinSight Dashboard](assets/dashboard.png)
 
 ## 🧰 Tech stack
 
