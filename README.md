@@ -27,9 +27,7 @@
 
 ## 🖥️ Dashboard preview
 
-Add a screenshot from your running application at `assets/dashboard.png` and uncomment the following line:
-
-<!-- ![FinSight dashboard](assets/dashboard.png) -->
+<[FinSight dashboard](assets/dashboard.png)>
 
 ## 🧰 Tech stack
 
