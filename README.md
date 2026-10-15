@@ -100,7 +100,7 @@ finsight/
 - The OpenAI integration classifies the **question text** into approved operations; PostgreSQL executes the reports.
 - The application is a demonstration, not a production-grade financial or security system.
 
-## 👩‍💻 Author
+## 👩🏾‍💻 Author
 
 **Khaydie Ramos** · Computer Science, Fordham University  
 [GitHub](https://github.com/khaydieramos) · [Email](mailto:kjr6@fordham.edu)
